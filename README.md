@@ -24,3 +24,10 @@ Welcome to the **Next Generation Analytics** dashboard — an interactive, user-
 ```bash
 git clone https://github.com/suleimantaofik6/Next-Generation-Visual-Analytics-Dashboard.git
 cd Next-Generation-Visual-Analytics-Dashboard
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/suleimantaofik6/Next-Generation-Visual-Analytics-Dashboard.git
+cd Next-Generation-Visual-Analytics-Dashboard
+
