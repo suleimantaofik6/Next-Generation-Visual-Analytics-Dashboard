@@ -1,6 +1,6 @@
-# <img src="data/NextGen.png" alt="NextGen Analytics Logo" width="60"/> Next Generation Analytics Dashboard
+# <img src="data/NextGen.png" alt="NextGen Analytics Logo" width="60"/> Next Generation Visual Analytics Dashboard
 
-Welcome to the **Next Generation Analytics** dashboard — an interactive, user-friendly platform for biomedical data visualization, machine learning, and medical image analysis. This tool is built using **Python**, **Streamlit**, **scikit-learn**, **Plotly**, and **SimpleITK**, and is designed for both clinical researchers and data scientists.
+Welcome to the **Next Generation Visual Analytics** dashboard — an interactive, user-friendly platform for biomedical data visualization, machine learning, and medical image analysis. This tool is built using **Python**, **Streamlit**, **scikit-learn**, **Plotly**, and **SimpleITK**, and is designed for both clinical researchers and data scientists.
 
 ---
 
