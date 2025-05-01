@@ -1,0 +1,5 @@
+# To run streamlit use:
+
+streamlit run C:/Users/tsuleim/Downloads/BDV_project/main.py
+
+# You can change to your file directory as well.
