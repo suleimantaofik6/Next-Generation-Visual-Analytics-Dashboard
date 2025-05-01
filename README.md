@@ -26,21 +26,6 @@ git clone https://github.com/suleimantaofik6/Next-Generation-Visual-Analytics-Da
 cd Next-Generation-Visual-Analytics-Dashboard
 ```
 
-#### 📁 File Structure
-
-```bash
-.
-├── main.py                    # Main Streamlit dashboard
-├── requirements.txt           # Python package dependencies
-├── ai_assistant.py            # AI assistant module
-├── dataset_analyzer.py        # AI assistant data analysis module
-├── README.md                  # This file
-├── data/
-│   └── NextGen.png            # Dashboard logo
-├── demo/                      # Video tutorials
-└── data/                      # Datasets
-```
-
 ### 2. Create a virtual environment (optional but recommended)
 
 ```bash
@@ -61,3 +46,25 @@ streamlit run main.py
 ```
 
 This will launch the app in your browser. You can upload datasets, explore and clean them, train ML models, and analyse medical or natural images interactively.
+
+### 📁 File Structure
+
+```bash
+.
+├── main.py                    # Main Streamlit dashboard
+├── requirements.txt           # Python package dependencies
+├── ai_assistant.py            # AI assistant module
+├── dataset_analyzer.py        # AI assistant data analysis module
+├── README.md                  # This file
+├── data/
+│   └── NextGen.png            # Dashboard logo
+├── demo/                      # Video tutorials
+└── data/                      # Datasets
+```
+
+### Acknowledgments
+Streamlit
+Plotly
+LungMask
+TotalSegmentator
+SimpleITK
