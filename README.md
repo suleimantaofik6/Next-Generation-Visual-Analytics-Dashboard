@@ -23,11 +23,26 @@ Welcome to the **Next Generation Analytics** dashboard — an interactive, user-
 
 ```bash
 git clone https://github.com/suleimantaofik6/Next-Generation-Visual-Analytics-Dashboard.git
-cd Next-Generation-Visual-Analytics-Dashboard```
-
-### 1. Clone the repository
-
-bash
-git clone https://github.com/suleimantaofik6/Next-Generation-Visual-Analytics-Dashboard.git
 cd Next-Generation-Visual-Analytics-Dashboard
+```
 
+### 2. Create a virtual environment (optional but recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### ▶️ Running the App
+
+```bash
+streamlit run app.py
+```
+
+This will launch the app in your browser. You can upload datasets, explore and clean them, train ML models, and analyse medical or natural images interactively.
