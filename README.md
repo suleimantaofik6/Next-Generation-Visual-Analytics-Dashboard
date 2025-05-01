@@ -26,6 +26,18 @@ git clone https://github.com/suleimantaofik6/Next-Generation-Visual-Analytics-Da
 cd Next-Generation-Visual-Analytics-Dashboard
 ```
 
+#### 📁 File Structure
+bash
+.
+├── app.py                     # Main Streamlit dashboard
+├── requirements.txt           # Python package dependencies
+├── ai_assistant.py            # Optional AI assistant module
+├── README.md                  # This file
+├── data/
+│   └── NextGen.png            # Dashboard logo
+├── demo/                      # (Optional) Video tutorials or recordings
+└── data/                      # Sample input files
+
 ### 2. Create a virtual environment (optional but recommended)
 
 ```bash
