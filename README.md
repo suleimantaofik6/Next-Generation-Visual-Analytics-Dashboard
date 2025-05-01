@@ -30,7 +30,7 @@ cd Next-Generation-Visual-Analytics-Dashboard
 
 ```bash
 .
-├── main.py                     # Main Streamlit dashboard
+├── main.py                    # Main Streamlit dashboard
 ├── requirements.txt           # Python package dependencies
 ├── ai_assistant.py            # AI assistant module
 ├── dataset_analyzer.py        # AI assistant data analysis module
