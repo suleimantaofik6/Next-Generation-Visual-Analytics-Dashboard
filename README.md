@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### ▶️ Running the App
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 This will launch the app in your browser. You can upload datasets, explore and clean them, train ML models, and analyse medical or natural images interactively.
