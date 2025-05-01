@@ -63,8 +63,8 @@ This will launch the app in your browser. You can upload datasets, explore and c
 ```
 
 ### Acknowledgments
-Streamlit
-Plotly
-LungMask
-TotalSegmentator
-SimpleITK
+- Streamlit
+- Plotly
+- LungMask
+- TotalSegmentator
+- SimpleITK
