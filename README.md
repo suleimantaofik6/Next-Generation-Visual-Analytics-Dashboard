@@ -27,16 +27,18 @@ cd Next-Generation-Visual-Analytics-Dashboard
 ```
 
 #### 📁 File Structure
+
 ```bash
 .
-├── app.py                     # Main Streamlit dashboard
+├── main.py                     # Main Streamlit dashboard
 ├── requirements.txt           # Python package dependencies
-├── ai_assistant.py            # Optional AI assistant module
+├── ai_assistant.py            # AI assistant module
+├── dataset_analyzer.py        # AI assistant data analysis module
 ├── README.md                  # This file
 ├── data/
 │   └── NextGen.png            # Dashboard logo
-├── demo/                      # (Optional) Video tutorials or recordings
-└── data/                      # Sample input files
+├── demo/                      # Video tutorials
+└── data/                      # Datasets
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
